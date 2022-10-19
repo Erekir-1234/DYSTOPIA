@@ -1,0 +1,8 @@
+name: Grain
+description: A version of snad but stronger will be used in alsmost everthing and is very common
+hardness: 3
+cost: 1
+color: "C2B280"
+explosiveness: 0
+flammability: 0
+research: silicon
