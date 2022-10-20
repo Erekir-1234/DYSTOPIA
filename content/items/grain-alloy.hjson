@@ -1,0 +1,8 @@
+localizedName: Grain alloy
+description: A alloy made from a mixture of grain and chromium is very helpful in early game defense
+hardness: 5
+cost: 1.6
+color: "C1B280"
+explosiveness: 0
+flammability: 0
+research: geothermal generator
