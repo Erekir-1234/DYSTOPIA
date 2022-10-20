@@ -1,0 +1,8 @@
+localizedName: Hardened Phase
+description: Hardened phase is the stronger version of Phase fabric is used in endgame production,units and defense
+hardness: 5
+cost: 2.6
+color:
+explosiveness: 0
+flammability: 0
+research: phase compresser 
